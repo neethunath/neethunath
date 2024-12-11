@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @neethunath
-- ✨ I love to explore new digital products and be a part of beta testing to understand user experience
-- 💼 I possess extensive hands-on experience in content development, community management, project management, product operations, and quality assurance
-- 👀 I’m interested in visual design, data analytics and learning experience
-- 🌱 I’m currently learning Python
+- ✨ A learner and explorer
+- 💼 Possess extensive hands-on experience in content development, community management, project management, product operations, and quality assurance
+- 👀 Interested in visual design, data analytics and learning experience
+- 🌱 Currently learning Python
 - 📫 Feel free to reach out to me at [ecstaticniya@gmail.com](mailto:ecstaticniya@gmail.com) for collaborations, questions, or just to connect!
 
 <!---
